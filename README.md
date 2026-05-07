@@ -6,11 +6,13 @@ This project demonstrates a professional, end-to-end data preprocessing workflow
 - Inconsistent formats
 - Outliers
 - Noise
+  
 # 🎯 Objectives
 - Deliver a structured data cleaning process
-Build reusable preprocessing pipelines
-Ensure data consistency, quality, and reproducibility
+- Build reusable preprocessing pipelines
+- Ensure data consistency, quality, and reproducibility
 # 🛠️ Tools:
+
 - Chat GPT
 - Jupyter Notebooks
 - Google Colab
